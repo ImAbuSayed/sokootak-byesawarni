@@ -10,7 +10,7 @@
 |-------|---------|
 | Title | Sokootak Byesawarni |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 04, 2026 |
+| Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sokootak-byesawarni/) |
 | License | [View License](./LICENSE.md) |
 | Artist | Abu Sayed |
@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> سكوتك بيصورني في كل ليلة
+> يا ليل الحب والنار الجميلة
+> أنا هنا يا روحي أستناك
+> حياتي وعمري بدأت معاك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
