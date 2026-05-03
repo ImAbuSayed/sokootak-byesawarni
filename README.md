@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> سكوتك بيصورني في كل ليلة
+> يا ليل الحب والنار الجميلة
+> أنا هنا يا روحي أستناك
+> حياتي وعمري بدأت معاك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
