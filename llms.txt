@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Sokootak Byesawarni |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/sokootak-byesawarni/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get License For Sokootak Byesawarni](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
